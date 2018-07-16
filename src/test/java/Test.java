@@ -12,6 +12,11 @@ import java.lang.reflect.Method;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
+/**
+ * mockito中文快速查询文档
+ * <url>https://blog.csdn.net/bboyfeiyu/article/details/52127551</url>
+ */
+
 @RunWith(PowerMockRunner.class)
 @PrepareForTest({Test3.class})
 public class Test {
